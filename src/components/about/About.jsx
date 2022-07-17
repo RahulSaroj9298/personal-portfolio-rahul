@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/myphoto.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -40,10 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing eli
-            Nisi minima perspiciatis nulla natus sapiente neque labore
-            voluptatem quisquam perferendis. Doloremque voluptate fugiat commodi
-            velit quisquam? Ullam sunt consequuntur corporis tenetur.
+          Web Developer with a passion for web application development and success in managing development projects using JavaScript, React. Dedicated to driving innovation with the ability to follow industry and technological trends, and facilitating early adoption of innovations
           </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>

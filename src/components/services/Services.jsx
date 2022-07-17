@@ -17,19 +17,19 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Develop the user interface.</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Design logo for the company.</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Create ux element interactions.</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Position your company brand.</p>
             </li>
           </ul>
         </article>
@@ -43,19 +43,19 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Design webpages for the company.</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Interactive and Dyamic webpages.</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Solving the problem of user's interaction.</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Build and deploy website .</p>
             </li>
           </ul>
         </article>
@@ -69,19 +69,19 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Design content for the different company.</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Manage their social handle</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Build Branding of the company</p>
             </li>
             <li>
               <BiCheck className="service_list-icons" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Design theme based poster and pages</p>
             </li>
           </ul>
         </article>

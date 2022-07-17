@@ -1,7 +1,8 @@
-.services_container{
+.services_container{    
     display: grid;
     grid-template-columns: repeat(3 , 1fr);
     gap: 3rem;
+    padding: 1rem 6rem;
 }
 .service{
     background: var(--color-bg-variant);
@@ -17,7 +18,7 @@
 }
 .service_head{
     background: var(--color-primary);
-    padding: 2rem;
+    padding: 1.5rem;
     border-radius: 0 0 2rem 2rem;
     box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);
 
@@ -44,4 +45,39 @@
 .service_list p{
     font-size: 0.9rem;
 
+}
+
+/*-------------------------Media Queries (Medium Devices)-----------------------------*/
+
+@media screen and (max-width: 1024px) {
+    .services_container{
+        grid-template-columns: repeat(2 , 1fr);
+    }
+
+    
+   
+}
+
+
+/*-------------------------Media Queries (Small Devices)-----------------------------*/
+
+@media screen and (max-width: 600px) {
+    .services_container{
+        grid-template-columns: repeat(1 , 1fr);
+    }
+    .service_list{
+        padding: 1rem;
+    }
+    .service_list li{
+        display:block;
+        gap: 0.5rem;
+        margin-bottom: 0.8rem;
+    }
+    .service_list-icon{
+        margin-top: 0.5px;
+    }
+    .service_list p{
+        font-size: 0.8rem;
+    }
+    
 }

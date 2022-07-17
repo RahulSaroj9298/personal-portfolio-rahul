@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio-rahul/static/css/main.1ac1eca7.css",
+    "main.js": "/personal-portfolio-rahul/static/js/main.eed984d7.js",
+    "static/media/portfolio5.png": "/personal-portfolio-rahul/static/media/portfolio5.629f4648390f3e217bc5.png",
+    "static/media/portfolio6.jpg": "/personal-portfolio-rahul/static/media/portfolio6.50e536d8dcb1ba3b5c29.jpg",
+    "static/media/mypic.png": "/personal-portfolio-rahul/static/media/mypic.ad5fbb1c6d8ae50e1956.png",
+    "static/media/myphoto.jpg": "/personal-portfolio-rahul/static/media/myphoto.c0f7b9128e70a3e67256.jpg",
+    "static/media/portfolio2.jpg": "/personal-portfolio-rahul/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/personal-portfolio-rahul/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/personal-portfolio-rahul/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/cv.pdf": "/personal-portfolio-rahul/static/media/cv.46075bcdf1bed52574df.pdf",
+    "static/media/portfolio4.jpg": "/personal-portfolio-rahul/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/personal-portfolio-rahul/index.html",
+    "main.1ac1eca7.css.map": "/personal-portfolio-rahul/static/css/main.1ac1eca7.css.map",
+    "main.eed984d7.js.map": "/personal-portfolio-rahul/static/js/main.eed984d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac1eca7.css",
+    "static/js/main.eed984d7.js"
+  ]
+}
